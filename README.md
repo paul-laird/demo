@@ -6,4 +6,4 @@ This is another commit
 
 extra lines are in paragraphs
 
-The line regarding first commit does not show
+The linMISTAKDe regarding first commit does not show
